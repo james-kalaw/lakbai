@@ -1,0 +1,25 @@
+year,total_rooms,deluxe_rooms,first_class_rooms,standard_rooms,economy_rooms,occupancy_total_pct,occupancy_deluxe_pct,occupancy_first_class_pct,occupancy_standard_pct,occupancy_economy_pct,data_quality_flag
+2000,13063,7056,2520,3080,407,58.8,65.3,50.8,53.1,38.0,
+2001,11784,6874,1779,2770,361,55.9,58.4,54.2,52.5,41.1,
+2002,11878,6645,1328,3291,614,59.9,62.7,59.9,55.9,51.3,
+2003,12212,7255,885,3367,705,60.1,61.2,59.9,59.0,54.1,
+2004,12494,7617,885,3567,425,68.2,71.0,65.8,64.3,54.1,
+2005,12842,7796,889,3727,430,72.0,74.0,70.2,67.9,65.9,
+2006,14200,8103,1668,3855,574,72.0,73.6,72.3,70.3,58.4,
+2007,14149,7839,1770,3996,544,73.1,73.8,75.9,71.8,61.8,
+2008,14048,7744,1818,3852,634,69.8,70.1,69.0,70.8,62.3,
+2009,14415,8086,1824,3827,678,64.8,64.6,60.3,67.4,64.6,
+2010,15141,8363,1821,4247,710,67.6,70.5,62.4,65.7,59.0,
+2011,15567,8887,1332,4423,925,67.7,72.4,62.1,67.3,58.6,
+2012,16145,8965,1545,4747,888,67.3,71.5,58.0,64.8,53.4,
+2013,15971,8916,1599,4632,824,67.2,70.8,60.1,65.3,52.2,
+2014,15374,8426,1620,5042,286,67.2,71.1,58.8,64.0,59.7,
+2015,16352,8770,1661,5435,486,67.3,71.6,59.1,62.5,62.6,
+2016,13460,7458,964,4598,440,66.8,68.3,58.6,64.7,57.6,
+2017,11936,7070,707,3834,325,64.7,69.1,51.2,60.4,58.1,
+2018,11120,7549,210,3038,323,67.9,71.8,65.2,59.3,57.3,
+2019,,,,,,64.4,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only
+2020,,,,,,50.0,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only
+2021,,,,,,61.0,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only; 2021 and 2022 total occupancy are identical (61.0) - verify against DOT source before interpreting as a flat year
+2022,,,,,,61.0,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only; 2021 and 2022 total occupancy are identical (61.0) - verify against DOT source before interpreting as a flat year
+2023,,,,,,62.6,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only

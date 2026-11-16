@@ -1,0 +1,8 @@
+# Packages the notebook uses. Spark also needs Java 17 when run outside Google Colab.
+pyspark
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter

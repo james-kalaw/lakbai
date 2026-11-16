@@ -32,7 +32,7 @@
 
 ## In plain words
 
-Most foreign tourists in the Philippines come from Asia, but the official numbers only say how many come from each country. We combined those numbers with who the travelers are (age), why they come (holiday, business, family, study), how often people in each country search Google for Philippine travel, and what visitors write in reviews. Using Apache Spark, a tool built for large data, we found four kinds of visitor markets that do not match the usual "ASEAN / East Asia / South Asia" grouping, and showed that the country depends heavily on South Korea. That points to marketing by visitor type instead of by region, and to growing other markets.
+Most foreign tourists in the Philippines come from Asia, but the official numbers only say how many come from each country. I combined those numbers with who the travelers are (age), why they come (holiday, business, family, study), how often people in each country search Google for Philippine travel, and what visitors write in reviews. Using Apache Spark, a tool built for large data, I found four kinds of visitor markets that do not match the usual "ASEAN / East Asia / South Asia" grouping, and showed that the country depends heavily on South Korea. That points to marketing by visitor type instead of by region, and to growing other markets.
 
 ## Problem statement
 
@@ -223,7 +223,7 @@ The notebook keeps every output from its final run, so GitHub shows all tables a
 
 **In Google Colab:** upload this repository's `data/` folder to your Google Drive, open `notebooks/lakbai_pyspark_analysis.ipynb` in Colab, set `BASE` in the "Starting Spark and Setting Folder Paths" cell to that folder, and select **Runtime > Run all**. The notebook installs PySpark and asks to connect your Drive.
 
-**On your own computer:** the notebook detects that it is not in Colab, skips the Drive step and reads `../data`. Install Java 17 (Spark needs it) and Python 3.11 or 3.12, then:
+**On your own computer:** the notebook detects that it is not in Colab, skips the Drive step and reads `../data`. Install Java 17 or newer (Spark needs it) and Python 3.11 to 3.13, then:
 
 ```bash
 git clone https://github.com/james-kalaw/lakbai.git
@@ -239,6 +239,8 @@ jupyter lab notebooks/lakbai_pyspark_analysis.ipynb
 
 Run all cells from the top. The first setup cell prints `OK` or `MISSING` for each data folder.
 
+**Checked:** the whole notebook was re-run from a fresh copy of this repository (no Google Drive) and finished without errors. Every headline number matches the paper: Ridge RMSE 22.65 against a 31.96 baseline, silhouette 0.488, 220 association rules, HHI 2,937, purity 0.67. The only differences are cosmetic: Spark progress bars and the order of some rows in printed tables.
+
 ## Limitations and future work
 
 - **21 rows.** One analysis year and 21 markets keep every model small; results describe patterns across markets, not individual travelers, and each association rule rests on 5 or 6 countries.
@@ -250,9 +252,9 @@ Run all cells from the top. The first setup cell prints `OK` or `MISSING` for ea
 
 Technological Institute of the Philippines, Quezon City. Professor: Dr. Rosmina Joy Cabauatan.
 
-- **James Andre L. Kalaw**: gathered the datasets; data preprocessing and exploratory analysis; the clustering (RQ3); compiled the team's work into the main notebook
-- Juliana Ysabel D.C. Detera
-- Josh Andrei A. Ituralde
+**Built by James Andre L. Kalaw**, who was assigned the project and did all of it: gathering the datasets, the Spark preprocessing pipeline, the exploratory analysis, all four research questions (regression, classification, clustering and association rules), the supplementary analyses and the notebook.
+
+Course group and paper co-authors: Juliana Ysabel D.C. Detera and Josh Andrei A. Ituralde.
 
 ## Glossary
 

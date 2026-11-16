@@ -1,0 +1,25 @@
+year,total_rooms,deluxe_rooms,first_class_rooms,standard_rooms,economy_rooms,occupancy_total_pct,occupancy_deluxe_pct,occupancy_first_class_pct,occupancy_standard_pct,occupancy_economy_pct,data_quality_flag,period,gap_to_peak_pts
+2000,13063.0,7056.0,2520.0,3080.0,407.0,58.8,65.3,50.8,53.1,38.0,,Earlier,14.3
+2001,11784.0,6874.0,1779.0,2770.0,361.0,55.9,58.4,54.2,52.5,41.1,,Earlier,17.2
+2002,11878.0,6645.0,1328.0,3291.0,614.0,59.9,62.7,59.9,55.9,51.3,,Earlier,13.2
+2003,12212.0,7255.0,885.0,3367.0,705.0,60.1,61.2,59.9,59.0,54.1,,Earlier,13.0
+2004,12494.0,7617.0,885.0,3567.0,425.0,68.2,71.0,65.8,64.3,54.1,,Earlier,4.9
+2005,12842.0,7796.0,889.0,3727.0,430.0,72.0,74.0,70.2,67.9,65.9,,Earlier,1.1
+2006,14200.0,8103.0,1668.0,3855.0,574.0,72.0,73.6,72.3,70.3,58.4,,Earlier,1.1
+2007,14149.0,7839.0,1770.0,3996.0,544.0,73.1,73.8,75.9,71.8,61.8,,Earlier,0.0
+2008,14048.0,7744.0,1818.0,3852.0,634.0,69.8,70.1,69.0,70.8,62.3,,Earlier,3.3
+2009,14415.0,8086.0,1824.0,3827.0,678.0,64.8,64.6,60.3,67.4,64.6,,Earlier,8.3
+2010,15141.0,8363.0,1821.0,4247.0,710.0,67.6,70.5,62.4,65.7,59.0,,Earlier,5.5
+2011,15567.0,8887.0,1332.0,4423.0,925.0,67.7,72.4,62.1,67.3,58.6,,Earlier,5.4
+2012,16145.0,8965.0,1545.0,4747.0,888.0,67.3,71.5,58.0,64.8,53.4,,Earlier,5.8
+2013,15971.0,8916.0,1599.0,4632.0,824.0,67.2,70.8,60.1,65.3,52.2,,Earlier,5.9
+2014,15374.0,8426.0,1620.0,5042.0,286.0,67.2,71.1,58.8,64.0,59.7,,Earlier,5.9
+2015,16352.0,8770.0,1661.0,5435.0,486.0,67.3,71.6,59.1,62.5,62.6,,Earlier,5.8
+2016,13460.0,7458.0,964.0,4598.0,440.0,66.8,68.3,58.6,64.7,57.6,,Earlier,6.3
+2017,11936.0,7070.0,707.0,3834.0,325.0,64.7,69.1,51.2,60.4,58.1,,Earlier,8.4
+2018,11120.0,7549.0,210.0,3038.0,323.0,67.9,71.8,65.2,59.3,57.3,,Earlier,5.2
+2019,,,,,,64.4,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only,Pre-pandemic,8.7
+2020,,,,,,50.0,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only,Pandemic,23.1
+2021,,,,,,61.0,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only; 2021 and 2022 total occupancy are identical (61.0) - verify against DOT source before interpreting as a flat year,Pandemic,12.1
+2022,,,,,,61.0,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only; 2021 and 2022 total occupancy are identical (61.0) - verify against DOT source before interpreting as a flat year,Recovery,12.1
+2023,,,,,,62.6,,,,,Room counts and hotel-category breakdown not published from 2019 (DOT switched to per-city occupancy reporting); total occupancy only,Recovery,10.5

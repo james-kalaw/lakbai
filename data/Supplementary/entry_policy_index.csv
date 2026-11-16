@@ -1,0 +1,22 @@
+country,entry_status,is_visa_free,max_stay_days,source_url,access_date,notes
+Brunei Darussalam,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+Cambodia,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+Indonesia,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+Lao PDR,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list (listed there as Lao People's Democratic Republic)
+Malaysia,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+Myanmar,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+Singapore,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+Thailand,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+Vietnam,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+China,Visa Required,FALSE,0,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,"2024 status (appears as ""China (PROC)"" in tables 8.3/8.4, standardize before joining). Became visa-free 14 days (tourism/business, NAIA/Mactan-Cebu airports only) effective 16 Jan 2026 - postdates your dataset year."
+Hong Kong,Visa-Free,TRUE,14,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,"Under FSC No. 112-11 (appears as ""Hong Kong - SAR"" in tables 8.3/8.4 - standardize before joining)"
+Japan,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+South Korea,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,"Listed as ""Republic of Korea"" in EO 408 visa-free list"
+Taiwan,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,Entry via MECO ETA (no diplomatic recognition) under Operations Order No. SBM-2015-018
+Macau,Visa-Free,TRUE,14,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,"Under FSC No. 122-11 (appears as ""Macau - SAR"" in tables 8.3/8.4 - standardize before joining)"
+India,Visa Required,FALSE,0,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,2024 status (not on EO 408 list). Became visa-free 14 days (tourism/business) effective 8 Jun 2025 - postdates your dataset year
+Pakistan,Visa Required,FALSE,0,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,Not on EO 408 visa-free list
+Bangladesh,Visa Required,FALSE,0,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,Not on EO 408 visa-free list
+Sri Lanka,Visa Required,FALSE,0,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,Not on EO 408 visa-free list
+Nepal,Visa-Free,TRUE,30,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,EO 408 visa-free list
+Iran,Visa Required,FALSE,0,https://evisa.gov.ph/page/policy?l1=Non-Immigrant+Visas&l2=Free+to+enter+the+Philippines+without+Visa,2026-09-18,Not on EO 408 visa-free list

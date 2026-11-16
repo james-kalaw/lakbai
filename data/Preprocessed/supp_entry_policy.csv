@@ -1,0 +1,22 @@
+country,region,entry_status,is_visa_free,max_stay_days,arrivals_2019,arrivals_2024,recovery_ratio,search_interest_index_mean,search_bin,signal_level
+Brunei Darussalam,ASEAN,Visa-Free,True,30.0,8126.0,6011.0,0.7397,1.9,Low,sparse
+Cambodia,ASEAN,Visa-Free,True,30.0,5988.0,4010.0,0.6697,7.0,Low,sparse
+Indonesia,ASEAN,Visa-Free,True,30.0,70819.0,57085.0,0.8061,41.6,Medium,full
+Lao PDR,ASEAN,Visa-Free,True,30.0,1454.0,1113.0,0.7655,0.0,Zero,none
+Malaysia,ASEAN,Visa-Free,True,30.0,139882.0,95713.0,0.6842,73.1,High,full
+Myanmar,ASEAN,Visa-Free,True,30.0,13978.0,9143.0,0.6541,0.0,Zero,none
+Singapore,ASEAN,Visa-Free,True,30.0,158595.0,157264.0,0.9916,68.7,High,full
+Thailand,ASEAN,Visa-Free,True,30.0,61292.0,45896.0,0.7488,76.1,High,full
+Vietnam,ASEAN,Visa-Free,True,30.0,66698.0,58098.0,0.8711,10.8,Low,full
+China,Northeast_Asia,Visa Required,False,,1743309.0,312222.0,0.1791,14.2,Low,sparse
+Hong Kong,Northeast_Asia,Visa-Free,True,14.0,91653.0,79276.0,0.865,58.2,High,full
+Japan,Northeast_Asia,Visa-Free,True,30.0,682788.0,388316.0,0.5687,74.9,High,full
+South Korea,Northeast_Asia,Visa-Free,True,30.0,1989322.0,1569071.0,0.7887,56.2,High,full
+Macau,Northeast_Asia,Visa-Free,True,14.0,8429.0,4470.0,0.5303,7.0,Low,sparse
+Taiwan,Northeast_Asia,Visa-Free,True,30.0,327273.0,208736.0,0.6378,61.0,High,full
+Bangladesh,South_Asia,Visa Required,False,,6630.0,4814.0,0.7261,11.5,Low,sparse
+India,South_Asia,Visa Required,False,,134963.0,78995.0,0.5853,73.8,High,full
+Iran,South_Asia,Visa Required,False,,2290.0,1072.0,0.4681,0.0,Zero,none
+Nepal,South_Asia,Visa-Free,True,30.0,6018.0,4050.0,0.673,5.1,Low,sparse
+Pakistan,South_Asia,Visa Required,False,,5793.0,4202.0,0.7254,4.3,Low,sparse
+Sri Lanka,South_Asia,Visa Required,False,,6412.0,2955.0,0.4609,3.6,Low,sparse

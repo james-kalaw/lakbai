@@ -252,7 +252,7 @@ Run all cells from the top. The first setup cell prints `OK` or `MISSING` for ea
 
 Technological Institute of the Philippines, Quezon City. Professor: Dr. Rosmina Joy Cabauatan.
 
-**Built by James Andre L. Kalaw**, who was assigned the project and did all of it: gathering the datasets, the Spark preprocessing pipeline, the exploratory analysis, all four research questions (regression, classification, clustering and association rules), the supplementary analyses and the notebook.
+**James Andre L. Kalaw**: data collection, the Spark preprocessing pipeline, exploratory analysis, the four research questions (regression, classification, clustering and association rules), the supplementary analyses and the notebook.
 
 Course group and paper co-authors: Juliana Ysabel D.C. Detera and Josh Andrei A. Ituralde.
 
